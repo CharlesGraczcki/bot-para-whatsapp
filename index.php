@@ -1,0 +1,3 @@
+<?
+echo "ESSA É UMA MENSAGEM AUTOMATICA DO PHP"
+?>
