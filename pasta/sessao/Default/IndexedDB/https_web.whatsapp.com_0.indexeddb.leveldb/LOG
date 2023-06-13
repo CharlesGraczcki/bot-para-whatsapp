@@ -1,14 +1,14 @@
-2023/06/08-18:06:42.372 4dc8 Reusing MANIFEST C:\Users\jarvisd\Desktop\bot1\pasta\sessao\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/MANIFEST-000001
-2023/06/08-18:06:42.373 4dc8 Recovering log #34
-2023/06/08-18:06:42.401 4dc8 Reusing old log C:\Users\jarvisd\Desktop\bot1\pasta\sessao\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/000034.log 
-2023/06/08-18:06:55.596 4c2c Level-0 table #40: started
-2023/06/08-18:06:55.660 4c2c Level-0 table #40: 1034327 bytes OK
-2023/06/08-18:06:55.662 4c2c Delete type=0 #34
-2023/06/08-18:06:56.018 4c2c Compacting 1@1 + 2@2 files
-2023/06/08-18:06:56.078 4c2c Generated table #41@1: 34355 keys, 2212190 bytes
-2023/06/08-18:06:56.108 4c2c Generated table #42@1: 19734 keys, 943055 bytes
-2023/06/08-18:06:56.108 4c2c Compacted 1@1 + 2@2 files => 3155245 bytes
-2023/06/08-18:06:56.110 4c2c compacted to: files[ 0 0 2 0 0 0 0 ]
-2023/06/08-18:06:56.110 4c2c Delete type=2 #36
-2023/06/08-18:06:56.110 4c2c Delete type=2 #37
-2023/06/08-18:06:56.110 4c2c Delete type=2 #40
+2023/06/13-19:37:59.531 37a8 Reusing MANIFEST C:\Users\jarvisd\Desktop\bot1\pasta\sessao\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/MANIFEST-000001
+2023/06/13-19:37:59.531 37a8 Recovering log #58
+2023/06/13-19:37:59.561 37a8 Reusing old log C:\Users\jarvisd\Desktop\bot1\pasta\sessao\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/000058.log 
+2023/06/13-19:40:15.172 1dac Level-0 table #64: started
+2023/06/13-19:40:15.199 1dac Level-0 table #64: 1085468 bytes OK
+2023/06/13-19:40:15.201 1dac Delete type=0 #58
+2023/06/13-19:40:15.879 37a8 Compacting 1@1 + 2@2 files
+2023/06/13-19:40:15.953 37a8 Generated table #65@1: 44176 keys, 2223896 bytes
+2023/06/13-19:40:15.996 37a8 Generated table #66@1: 22200 keys, 1406536 bytes
+2023/06/13-19:40:15.996 37a8 Compacted 1@1 + 2@2 files => 3630432 bytes
+2023/06/13-19:40:15.997 37a8 compacted to: files[ 0 0 2 0 0 0 0 ]
+2023/06/13-19:40:15.998 37a8 Delete type=2 #60
+2023/06/13-19:40:15.998 37a8 Delete type=2 #61
+2023/06/13-19:40:15.998 37a8 Delete type=2 #64

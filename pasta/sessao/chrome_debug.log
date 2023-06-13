@@ -1,9 +1,5 @@
-[24872:24016:0608/180640.736:WARNING:chrome_main_delegate.cc(593)] This is Chrome version 114.0.5735.110 (not a warning)
-[24872:24016:0608/180640.809:INFO:chrome_browser_cloud_management_controller.cc(167)] Starting CBCM Controller Initialization
-[24872:24016:0608/180640.809:INFO:chrome_browser_cloud_management_controller.cc(195)] No machine level policy manager exists.
-[24872:24016:0608/180642.219:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Unrecognized feature: 'ambient-light-sensor'.", source:  (0)
-[24872:24016:0608/180642.725:INFO:CONSOLE(40)] "Uncaught (in promise) TypeError: Failed to execute 'put' on 'Cache': Partial response (status code 206) is unsupported", source: https://web.whatsapp.com/serviceworker.js (40)
-[24872:24016:0608/180653.085:INFO:CONSOLE(40)] "Uncaught (in promise) TypeError: Failed to execute 'put' on 'Cache': Partial response (status code 206) is unsupported", source: https://web.whatsapp.com/serviceworker.js (40)
-[24872:24016:0608/180653.122:INFO:CONSOLE(40)] "Uncaught (in promise) TypeError: Failed to execute 'put' on 'Cache': Partial response (status code 206) is unsupported", source: https://web.whatsapp.com/serviceworker.js (40)
-[24872:24016:0608/190342.337:ERROR:device_event_log_impl.cc(222)] [19:03:42.337] USB: usb_service_win.cc:104 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Elemento não encontrado. (0x490)
-[24872:24016:0608/190355.715:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
+[5972:14400:0613/193758.834:WARNING:chrome_main_delegate.cc(593)] This is Chrome version 114.0.5735.110 (not a warning)
+[5972:14400:0613/193758.908:INFO:chrome_browser_cloud_management_controller.cc(167)] Starting CBCM Controller Initialization
+[5972:14400:0613/193758.908:INFO:chrome_browser_cloud_management_controller.cc(195)] No machine level policy manager exists.
+[5972:14400:0613/193759.578:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Unrecognized feature: 'ambient-light-sensor'.", source:  (0)
+[5972:14400:0613/200205.766:ERROR:device_event_log_impl.cc(222)] [20:02:05.765] USB: usb_service_win.cc:104 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Elemento não encontrado. (0x490)
