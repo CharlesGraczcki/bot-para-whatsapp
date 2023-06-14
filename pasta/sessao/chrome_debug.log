@@ -1,5 +1,6 @@
-[5972:14400:0613/193758.834:WARNING:chrome_main_delegate.cc(593)] This is Chrome version 114.0.5735.110 (not a warning)
-[5972:14400:0613/193758.908:INFO:chrome_browser_cloud_management_controller.cc(167)] Starting CBCM Controller Initialization
-[5972:14400:0613/193758.908:INFO:chrome_browser_cloud_management_controller.cc(195)] No machine level policy manager exists.
-[5972:14400:0613/193759.578:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Unrecognized feature: 'ambient-light-sensor'.", source:  (0)
-[5972:14400:0613/200205.766:ERROR:device_event_log_impl.cc(222)] [20:02:05.765] USB: usb_service_win.cc:104 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Elemento não encontrado. (0x490)
+[16548:7776:0614/110853.940:WARNING:chrome_main_delegate.cc(593)] This is Chrome version 114.0.5735.110 (not a warning)
+[16548:7776:0614/110853.999:INFO:chrome_browser_cloud_management_controller.cc(167)] Starting CBCM Controller Initialization
+[16548:7776:0614/110853.999:INFO:chrome_browser_cloud_management_controller.cc(195)] No machine level policy manager exists.
+[16548:7776:0614/110855.428:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Unrecognized feature: 'ambient-light-sensor'.", source:  (0)
+[16548:7776:0614/110857.131:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Unrecognized feature: 'ambient-light-sensor'.", source:  (0)
+[16548:7776:0614/110858.780:INFO:CONSOLE(2)] "JQMIGRATE: Migrate is installed, version 3.4.0", source: http://localhost/phpmyadmin/js/vendor/jquery/jquery-migrate.min.js?v=5.2.1 (2)

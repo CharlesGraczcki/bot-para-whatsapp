@@ -25,7 +25,7 @@ chrome_options = Options()
 chrome_options.add_argument("user-data-dir=" + dir_path + "/pasta/sessao")
 driver = webdriver.Chrome(options=chrome_options)
 driver.get('https://web.whatsapp.com/')
-time.sleep(15)
+time.sleep(5)
 ############################################################
 def bot():
     try:
@@ -49,22 +49,22 @@ while True:
         telefone_cliente = driver.find_element(By.XPATH,contato_cliente)
         telefone_final = telefone_cliente.text 
         print(telefone_final)
-        time.sleep(5)
+        time.sleep(2)
 ############################################################
         #PEGAR A MENSAGEM DO CLIENTE
         todas_as_msg = driver.find_elements(By.CLASS_NAME,msg_cliente)
         todas_as_msg_texto = [e.text for e in todas_as_msg]
         msg = todas_as_msg[-1] 
         print(msg)
-        time.sleep(5)
+        time.sleep(2)
 ############################################################
         #RESPONDENDO CLIENTE
         resposta = requests.get('http://localhost/BOT_CURSO/index.php?',params={'msg':msg,'telefone':telefone_final,'usuario':usuario},headers=agent)
         resposta = resposta.text
-        time.sleep(5)
+        time.sleep(2)
         campo_de_texto = driver.find_element(By.XPATH,caixa_msg)
         campo_de_texto.click()
-        time.sleep(3)
+        time.sleep(2)
         campo_de_texto.send_keys(resposta,Keys.ENTER)
 ############################################################
         #FECHAR CONTATO
